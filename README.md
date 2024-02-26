@@ -9,6 +9,7 @@ Welcome to the Banking App REST API! This application provides a set of endpoint
 - Spring Data JPA
 - MySQL (or any other database)
 - Maven
+- Spring web
 
 ## Getting Started
 To get started with the Banking App REST API, follow these steps:
